@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VENOMSCORP</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #0f0;
+      font-family: monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 3em;
+    }
+  </style>
+</head>
+<body>
+  <h1>VENOMSCORP</h1>
+  <p>Web sitemiz çok yakında yayında!</p>
+</body>
+</html>
